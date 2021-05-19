@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLfF8BzO59StC/XUzoTmjxcp2D3qtfJL7Uv9aceuPg/GiFSzcmCPPZ+lbL8vqujAHDy53VrSOFlwh0urcXVHhg==",
+  "success": true,
+  "projectFilePath": "F:\\github\\imgclip\\ImgClip\\ImgClip\\ImgClip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cts\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\Cts\\.nuget\\packages\\netvips\\2.0.0\\netvips.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cts\\.nuget\\packages\\netvips.native.win-x64\\8.10.6\\netvips.native.win-x64.8.10.6.nupkg.sha512",
+    "C:\\Users\\Cts\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
