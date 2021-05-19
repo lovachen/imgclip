@@ -35,10 +35,10 @@ namespace ImgClip
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.Use(next => context =>
+            app.Use(next => async context =>
             {
-
-                return next(context);
+                await context.Response.WriteAsync("111");
+                return; 
             });
 
             app.Run((ctx) =>
